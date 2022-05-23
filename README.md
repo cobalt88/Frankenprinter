@@ -50,7 +50,7 @@ no install required - unless you're really crazy enough to build one of these ma
  ## Application Tests
  - - -
 
-no tests currently active. this this is too simple for that.
+If the machine runs after flashing with this firmware, congradulations! It worked! otherwise... you know the drill. 
 
 ## license
   - - - 
