@@ -32,7 +32,7 @@ no install required - unless you're really crazy enough to build one of these ma
  ## Instructions/How To Use
  - - -
  
- In a perfect world with a full walkthrough of everything i did to that poor machine, you would compile the firmware and load the firmware.bin file that results onto a micro sd card, load that card into the machine, and pray it works. This however is really not reccomended as i did not completely document all the changes i made to this machine and this firmware is really only intended for use by that specific machine. 
+ In a perfect world with a full walkthrough of everything i did to that poor machine, you would compile the firmware and load the firmware.bin file that results onto a micro sd card, load that card into the machine, and pray it works. This however is really not reccomended as I did not completely document all the changes that were made to this machine and this firmware is really only intended for use by that specific machine, and only one of them was ever made to my knowledge. 
 
  ## Contribution Guidelines
  - - -
